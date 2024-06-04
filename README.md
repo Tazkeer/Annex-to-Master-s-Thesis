@@ -18,3 +18,12 @@ Second supervisor: Max Burger
 Climate change is impacting the lives of millions every year, making it crucial to understand how people react to conservation. This study investigates the influence of relational values (RV) on individuals' willingness to contribute to conservation efforts, measured through Contingent Valuation (CV) methods, namely through willingness to pay (WTP) and willingness to donate. Our primary hypothesis is that RV salience will positively influence individuals’ conservation behavior. Notably, after accounting for sociodemographic factors such as gender, age, marital status, education, household income and distance to waterbodies, the treatment group demonstrates a higher WTP. The relationship between distance to waterbodies and WTP is significant only when household income is considered. While the hypothetical bias is negatively correlated with the treatment, this result is not statistically significant. This study contributes to the understanding of RVs in sustainable development economics, and their potential to bolster conservation efforts in climate-vulnerable areas. Our findings emphasize the complexity of incorporating RVs into conservation strategies and highlight the necessity for further research with larger, more representative samples.
 
 Keywords: Contingent Valuation, Willingness to pay, Relational Values, sociodemographic factors and   hypothetical bias.  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# General information
+This repository contains the followings : 
+  1. code book : which includes the survey questionnaire along with the names for the variables.
+  2. Stata data and Excel files : this may be used to replicate the results using Stata. FYI, the do-files were created using Stata 17, but made backward compatible. 
+  3. QGIS Project and Excel : this folder contains the shape files, as well as the project that may be used to replicate the distance calculation.
+
+
