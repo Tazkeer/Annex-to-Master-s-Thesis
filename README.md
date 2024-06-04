@@ -27,4 +27,16 @@ This repository contains the followings :
   2. Stata data and Excel files : this may be used to replicate the results using Stata. FYI, the do-files were created using Stata 17, but made backward compatible. 
   3. QGIS Project and Excel : this folder contains the shape files, as well as the project that may be used to replicate the distance calculation.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Tips
+For easy replication of results, figures and tables that are presented in the main manuscript as well as the Appendix, use the following dta-file do-files and dta-file :
+DTA : master_dhaka_2022_clean_Tazkeer_Azeez_Chaudhuri.dta
+Do-files : 2_0_analysis.do
+           3_0_robustness.do
+
+There are READ ME files in the subfolders for easy navigation.
+
+  
+
+
 
