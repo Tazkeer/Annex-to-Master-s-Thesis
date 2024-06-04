@@ -1,0 +1,6 @@
+The main excel containing the survey data is called "Master_Survey_Dhaka_2022_with Distance -_all_v_-_English_-_2022-02-21", which is in a final state, ready to be used for data analysis.
+
+- All other excel files are usable to get to this final state, following the do files.
+- The excel file named "adm all_center_distance to water" contains the data from administration level 4 of Dhaka, and is used for the calculation of distance. 
+- Excels used for the Pretest are also provided for transparency and replication. 
+

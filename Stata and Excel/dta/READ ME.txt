@@ -1,0 +1,3 @@
+The file named "master_dhaka_2022_clean_Tazkeer_Azeez_Chaudhuri" is the final version, that may be used for data analysis. This is the cleaned survey data for our study.
+
+The other do files may be used to finally come to the form as presented in the above mentioned dta file. 

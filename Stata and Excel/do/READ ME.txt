@@ -1,0 +1,5 @@
+The main data analysis and robustness check may be done using the following do-files : 
+2_0_analysis.do
+3_0_robustness.do
+
+All other do files may be used to get the data ready for analysis.
